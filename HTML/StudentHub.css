@@ -1,0 +1,46 @@
+h1{
+    border-style: double;
+    text-align: center;
+    background-color: #a7bbe8;
+}
+body{
+    text-align: center;
+    background-color: #e5edf5;
+}
+h2,h3{
+    text-decoration-line: underline;
+}
+p{
+    border-style: groove;
+    font-size: large;
+    line-height: 2;
+}
+button{
+    font-size: medium;
+}
+.feature-list{
+  max-width: 500px;
+  margin: 24px auto;      
+  padding: 0;       
+  text-align: left;       
+}
+.feature-list li{
+  background-color: #FFFFFF;
+  padding: 12px 18px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  align-items: center;
+  gap: 12px;  
+}
+.register-form{
+    border-style: groove;
+    padding: 20px;
+    font-size: large;
+    text-align: center;
+    margin: 20px auto;
+}
+.table-form{
+    margin: 20px auto;
+    
+}
+
