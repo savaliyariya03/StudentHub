@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+.fag-answer{
+    display: none;
+}
+.show{
+    display: block;
+}
+.modal-content {
+    height: 150px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.slider {
+    text-align: center;
+    margin: 30px;
+}
+.dark {
+    background-color: #222;
+    color: white;
+}

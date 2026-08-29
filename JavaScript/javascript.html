@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Learn JavaScript</title>
+    <link rel="stylesheet" href="javascript.css">
+</head>
+<body>
+    <h1>Welcome to my website</h1>
+    <button onclick="changeTheme()">Light / Dark Mode</button>
+    <hr>
+    <h2>Modal Popup</h2>
+    <button onclick="openModal()">Open Popup</button>
+    <div class="modal" id="myModal">
+        <div class="modal-content">
+            <h2>Hello!</h2>
+            <p>This is a modal popup.</p>
+            <button onclick="closeModal()">Close</button>
+        </div>
+    </div>
+    <hr>
+    <h2>Content Slider</h2>
+    <div class="slider">
+        <h3 id="slideText">Slide 1</h3>
+        <button onclick="previousSlide()">Previous</button>
+        <button onclick="nextSlide()">Next</button>
+    </div>
+    <hr>
+    <h2>Frequently Asked Questions</h2>
+    <div class="fag">
+        <button class="fag-question" onclick="faq()">
+            What is JavaScript?
+        </button>
+        <div class="fag-answer">
+            JavaScript is a programming language used to make web pages interactive.
+        </div>
+        <br>
+        <button class="fag-question" onclick="faq()">
+            What is DOM?
+        </button>
+        <div class="fag-answer">
+            DOM stands for Document Object Model.
+        </div>
+        <br>
+        <button class="fag-question" onclick="faq()">
+            What is event handling?
+        </button>
+        <div class="fag-answer">
+            Event handling means responding to user actions such as clicking a button.
+        </div>
+    </div>
+    <script src="javascript.js"></script>
+</body>
+</html>
