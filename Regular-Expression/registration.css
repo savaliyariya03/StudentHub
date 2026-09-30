@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    margin: 20px;
+}
+.container {
+    width: 450px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+h1 {
+    text-align: center;
+}
+label {
+    margin-top: 12px;
+    font-weight: bold;
+}
+input[type="text"],input[type="email"],input[type="tel"],input[type="password"],select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.gender {
+    margin-top: 8px;
+}
+.gender input {
+    width: auto;
+}
+.terms {
+    margin-top: 15px;
+}
+.terms input {
+    width: auto;
+}
+span {
+    color: red;
+    font-size: 13px;
+}
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #555;
+}
+#successMessage {
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
