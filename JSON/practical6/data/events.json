@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Hackathon 2026",
+    "category": "Technical",
+    "date": "2026-10-15"
+  },
+  {
+    "name": "Annual Dance Night",
+    "category": "Cultural",
+    "date": "2026-10-22"
+  },
+  {
+    "name": "Inter-College Cricket Cup",
+    "category": "Sports",
+    "date": "2026-11-05"
+  },
+  {
+    "name": "Web Dev Workshop",
+    "category": "Technical",
+    "date": "2026-11-12"
+  },
+  {
+    "name": "Music Fest",
+    "category": "Cultural",
+    "date": "2026-11-20"
+  },
+  {
+    "name": "Badminton Tournament",
+    "category": "Sports",
+    "date": "2026-11-28"
+  },
+  {
+    "name": "AI & Robotics Seminar",
+    "category": "Technical",
+    "date": "2026-12-02"
+  }
+]

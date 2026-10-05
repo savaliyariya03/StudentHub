@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Students</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <h1>Students</h1>
+    <a href="index.html">Home</a>
+    <input id="search" placeholder="Search" />
+    <select id="filter">
+      <option value="All">All</option>
+      <option value="BCA">BCA</option>
+      <option value="BSc IT">BSc IT</option>
+      <option value="B.Tech">B.Tech</option>
+    </select>
+    <button onclick="sortData()">Sort</button>
+    <section id="output"></section>
+    <button onclick="previous()">Previous</button>
+    <button onclick="next()">Next</button>
+    <script src="js/students.js"></script>
+  </body>
+</html>

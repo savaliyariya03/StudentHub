@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aarav Patel",
+    "course": "B.Tech",
+    "age": 20
+  },
+  {
+    "name": "Diya Sharma",
+    "course": "BCA",
+    "age": 19
+  },
+  {
+    "name": "Ishaan Verma",
+    "course": "BSc IT",
+    "age": 21
+  },
+  {
+    "name": "Ananya Joshi",
+    "course": "B.Tech",
+    "age": 20
+  },
+  {
+    "name": "Rohan Mehta",
+    "course": "BCA",
+    "age": 20
+  },
+  {
+    "name": "Kavya Nair",
+    "course": "BSc IT",
+    "age": 19
+  },
+  {
+    "name": "Siddharth Rao",
+    "course": "B.Tech",
+    "age": 22
+  }
+]

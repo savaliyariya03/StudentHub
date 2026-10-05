@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the deadline for admission application?",
+    "answer": "The final submission deadline for admission forms is June 30th.",
+    "category": "Admission"
+  },
+  {
+    "question": "When will the semester exam schedule be released?",
+    "answer": "Exam timetables are published two weeks prior to the examination date.",
+    "category": "Exam"
+  },
+  {
+    "question": "How many books can a student borrow at a time?",
+    "answer": "Undergraduate students can borrow up to four books for a duration of 14 days.",
+    "category": "Library"
+  },
+  {
+    "question": "What documents are required during admission verification?",
+    "answer": "Original mark sheets, transfer certificate, and identification proof.",
+    "category": "Admission"
+  },
+  {
+    "question": "What is the procedure to apply for re-evaluation?",
+    "answer": "Submit the re-evaluation form via the student portal within 7 days of results.",
+    "category": "Exam"
+  },
+  {
+    "question": "Are digital library and research journals accessible off-campus?",
+    "answer": "Yes, access is provided through the college remote VPN portal.",
+    "category": "Library"
+  }
+]

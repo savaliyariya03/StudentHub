@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Mid-Semester Examination Dates",
+    "type": "Exam",
+    "date": "2026-10-10"
+  },
+  {
+    "title": "Diwali Vacation Schedule",
+    "type": "Holiday",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Campus ID Card Distribution",
+    "type": "General",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Practical Exam Guidelines & Submissions",
+    "type": "Exam",
+    "date": "2026-10-18"
+  },
+  {
+    "title": "National Holiday Observance",
+    "type": "Holiday",
+    "date": "2026-11-14"
+  },
+  {
+    "title": "Annual Parking Pass Renewal",
+    "type": "General",
+    "date": "2026-11-01"
+  }
+]
